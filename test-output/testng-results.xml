@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-21T23:30:46 IST" name="Calculators_TestNG_Suite" finished-at="2026-05-21T23:31:17 IST" duration-ms="31027">
+    <groups>
+    </groups>
+    <test started-at="2026-05-21T23:30:46 IST" name="Test" finished-at="2026-05-21T23:31:17 IST" duration-ms="31027">
+      <class name="test.calculators_net.Arithmetic">
+        <test-method signature="add()[pri:1, instance:test.calculators_net.Arithmetic@34e9fd99]" started-at="2026-05-21T23:30:48 IST" name="add" finished-at="2026-05-21T23:30:50 IST" duration-ms="2255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="sub()[pri:2, instance:test.calculators_net.Arithmetic@34e9fd99]" started-at="2026-05-21T23:30:50 IST" name="sub" finished-at="2026-05-21T23:30:53 IST" duration-ms="2311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method signature="mult()[pri:3, instance:test.calculators_net.Arithmetic@34e9fd99]" started-at="2026-05-21T23:30:53 IST" name="mult" finished-at="2026-05-21T23:30:55 IST" duration-ms="2339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method signature="div()[pri:4, instance:test.calculators_net.Arithmetic@34e9fd99]" started-at="2026-05-21T23:30:55 IST" name="div" finished-at="2026-05-21T23:30:57 IST" duration-ms="2331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+      </class> <!-- test.calculators_net.Arithmetic -->
+      <class name="test.calculators_net.Setup">
+        <test-method is-config="true" signature="launch()[pri:0, instance:test.calculators_net.Setup@6b2ea799]" started-at="2026-05-21T23:30:46 IST" name="launch" finished-at="2026-05-21T23:30:48 IST" duration-ms="2012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- test.calculators_net.Setup -->
+      <class name="test.calculators_net.footer">
+        <test-method signature="links()[pri:0, instance:test.calculators_net.footer@54d9d12d]" started-at="2026-05-21T23:31:04 IST" name="links" finished-at="2026-05-21T23:31:17 IST" duration-ms="13122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- links -->
+      </class> <!-- test.calculators_net.footer -->
+      <class name="test.calculators_net.Triganometric">
+        <test-method signature="sin()[pri:1, instance:test.calculators_net.Triganometric@3c41ed1d]" started-at="2026-05-21T23:30:57 IST" name="sin" finished-at="2026-05-21T23:31:00 IST" duration-ms="2204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sin -->
+        <test-method signature="cos()[pri:2, instance:test.calculators_net.Triganometric@3c41ed1d]" started-at="2026-05-21T23:31:00 IST" name="cos" finished-at="2026-05-21T23:31:02 IST" duration-ms="2189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cos -->
+        <test-method signature="tan()[pri:3, instance:test.calculators_net.Triganometric@3c41ed1d]" started-at="2026-05-21T23:31:02 IST" name="tan" finished-at="2026-05-21T23:31:04 IST" duration-ms="2214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tan -->
+      </class> <!-- test.calculators_net.Triganometric -->
+    </test> <!-- Test -->
+  </suite> <!-- Calculators_TestNG_Suite -->
+</testng-results>
